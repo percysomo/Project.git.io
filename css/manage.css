@@ -1,0 +1,52 @@
+    body {
+        color: black;
+        background: rgb(51, 122, 253);
+        margin-bottom: 6ex;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+    }
+    
+    h1 {
+        color: rgb(255, 242, 62);
+        background: white;
+        margin-bottom: 2ex;
+    }
+    
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: rgb(255, 242, 62);
+    }
+    
+    table {
+        margin-right: auto;
+        margin-bottom: 2ex;
+    }
+    
+    thead td,
+    th {
+        color: black;
+        background: #f8db39;
+        font-size: 1em;
+        font-weight: bold;
+        text-align: center;
+        padding: 0.5em 1ex;
+        border: 1pt solid rgb(243, 66, 66);
+    }
+    
+    tbody td,
+    td {
+        color: black;
+        background: rgb(241, 238, 43);
+        font-size: small;
+        padding: 0.5em 1ex;
+        border: 1pt solid rgb(230, 49, 49);
+    }
+    
+    pre {
+        color: black;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+    }
